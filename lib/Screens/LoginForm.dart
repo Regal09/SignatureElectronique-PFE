@@ -57,12 +57,6 @@ class _LoginFormState extends State<LoginForm> {
         print("y a des erruers");
         showAlertDialogEchec(context);
       });
-
-      /*if (dbHelper.getLoginUser(tel, passwd) != null) {
-        print("sucess" + tel);
-      } else {
-        print("true");
-      }*/
     }
   }
 
