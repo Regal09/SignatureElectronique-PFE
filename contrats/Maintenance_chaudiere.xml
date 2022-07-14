@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<intervention Id="1">
+  <client> KEYCE University </client>
+  <name>Réparation chaudière</name>
+  <reference>AB128F23</reference>
+  <date>21/02/2022</date>
+  <step Id="1">
+	<comment>Effectuer le nettoyage de la chaudière</comment>
+  </step>
+  <step Id="2">
+	<comment>Vérifier les systèmes de régulation et de sécurité de la chaudière</comment>
+	<data>	</data>
+	<validation2> </validation2> 
+  </step>
+  <step Id="3">
+    <comment>Démonter, nettoyer et régler le brûleur</comment>
+  </step>
+  <step Id="4">
+    <comment>Contrôler la combustion, la température et l'émission des fumées</comment>
+		<data>	</data> 
+		<data>	</data>
+		<validation4> </validation4>
+		<internal_validation> </internal_validation> 
+  </step>
+ </intervention>
